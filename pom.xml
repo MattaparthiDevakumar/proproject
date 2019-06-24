@@ -4,7 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.procode.example</groupId>
-  <groupId>com.example.testing</groupId>
   <artifactId>example-test</artifactId>
   <packaging>jar</packaging>
   <version>1</version>
