@@ -8,7 +8,6 @@
   <packaging>jar</packaging>
   <version>1</version>
  <name>procode-test</name>
-  <name>example-test</name>
   <url>http://maven.apache.org</url>
   
   <dependencies>
