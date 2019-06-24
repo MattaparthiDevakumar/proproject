@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0.018" errors="0" skipped="2">
+<testsuite tests="5" failures="0" name="com.procode.examples.CalculatorTest" time="0.018" errors="0" skipped="2">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib"/>
@@ -65,13 +65,13 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" name="testSum" time="0.005"/>
-  <testcase classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" name="testEqual" time="0.006">
+  <testcase classname="com.procode.examples.CalculatorTest" name="testSum" time="0.005"/>
+  <testcase classname="com.procode.examples.CalculatorTest" name="testEqual" time="0.006">
     <skipped/>
   </testcase>
-  <testcase classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" name="testSubstraction" time="0.006">
+  <testcase classname="com.procode.examples.CalculatorTest" name="testSubstraction" time="0.006">
     <skipped/>
   </testcase>
-  <testcase classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" name="testDivisionException" time="0"/>
-  <testcase classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" name="testDivison" time="0.001"/>
+  <testcase classname="com.procode.examples.CalculatorTest" name="testDivisionException" time="0"/>
+  <testcase classname="com.procode.examples.CalculatorTest" name="testDivison" time="0.001"/>
 </testsuite>

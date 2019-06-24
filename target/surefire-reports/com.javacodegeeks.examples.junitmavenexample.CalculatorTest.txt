@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.javacodegeeks.examples.junitmavenexample.CalculatorTest
+Test set: com.procode.examples.CalculatorTest
 -------------------------------------------------------------------------------
 Tests run: 5, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.101 sec
